@@ -2,4 +2,5 @@
 
 Projet perso
 Découverte de symfony
+  - console
 
